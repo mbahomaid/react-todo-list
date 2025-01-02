@@ -47,3 +47,14 @@ input {
   padding: 1rem;
   margin-right: 1rem;
 }
+
+li {
+  list-style: none;
+  padding: 0.5rem;
+  border: 1px solid black;
+  margin-bottom: 0.5rem;
+  border-radius: 10px;
+}
+li:first-child {
+  margin-top: 0.5rem;
+}
